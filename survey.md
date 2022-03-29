@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: Red 
+Favorite food: Meat
+Favorite musician/band: Idan Raichel 
+Favorite movie: The Blind Side
+Requested grade in the course: 100 
